@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/React_project/static/css/main.f855e6bc.css",
-    "main.js": "/React_project/static/js/main.8fee3da2.js",
+    "main.css": "/React_project/static/css/main.3f5daa63.css",
+    "main.js": "/React_project/static/js/main.e9f3e8b0.js",
     "static/js/453.1407b060.chunk.js": "/React_project/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/React_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/contact_box.png": "/React_project/static/media/contact_box.0319af40e678225b66fc.png",
+    "static/media/paint_Dash.png": "/React_project/static/media/paint_Dash.5ecff0ca0ce9a585ec21.png",
+    "static/media/back.png": "/React_project/static/media/back.1f4443bb41c74f32257f.png",
+    "static/media/d6.png": "/React_project/static/media/d6.651ca979dc99cf168364.png",
     "index.html": "/React_project/index.html",
-    "main.f855e6bc.css.map": "/React_project/static/css/main.f855e6bc.css.map",
-    "main.8fee3da2.js.map": "/React_project/static/js/main.8fee3da2.js.map",
+    "main.3f5daa63.css.map": "/React_project/static/css/main.3f5daa63.css.map",
+    "main.e9f3e8b0.js.map": "/React_project/static/js/main.e9f3e8b0.js.map",
     "453.1407b060.chunk.js.map": "/React_project/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8fee3da2.js"
+    "static/css/main.3f5daa63.css",
+    "static/js/main.e9f3e8b0.js"
   ]
 }
